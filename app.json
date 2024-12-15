@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "lirr-app-v2",
-    "slug": "lirr-app-v2",
+    "name": "Lirr",
+    "slug": "lirr",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "lirr",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
